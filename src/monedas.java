@@ -24,7 +24,7 @@ public class monedas {
         convertirBTN.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                double [] tarifas= {2046.03,447400,100};
+                double [] tarifas= {2046.03,447400,100,96.37};
                 double tarifasSeleccionada=tarifas[destinoCB.getSelectedIndex()];
                 double resultado = Double.parseDouble(origenTF.getText())*tarifasSeleccionada/100;
                 destinoTF.setText(""+resultado);

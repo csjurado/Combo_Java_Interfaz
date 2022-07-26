@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e4d77a4-807a-42b3-b77e-aff060b0afb6" name="Changes" comment="ACTUALIZACION" />
+    <list default="true" id="3e4d77a4-807a-42b3-b77e-aff060b0afb6" name="Changes" comment="ACTUALIZACION">
+      <change beforePath="$PROJECT_DIR$/src/monedas.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/monedas.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/monedas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/monedas.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +61,7 @@
       <updated>1658758257497</updated>
       <workItem from="1658758258763" duration="2752000" />
       <workItem from="1658764365906" duration="47000" />
+      <workItem from="1658796533939" duration="83000" />
     </task>
     <task id="LOCAL-00001" summary="ACTUALIZACION">
       <created>1658764397014</created>

@@ -50,7 +50,7 @@
         </constraints>
         <properties>
           <model>
-            <item value="Dólares "/>
+            <item value="Dólares"/>
             <item value="Pesos (MX)"/>
             <item value="Pesos (Col)"/>
           </model>
@@ -58,13 +58,14 @@
       </component>
       <component id="8c95d" class="javax.swing.JComboBox" binding="destinoCB">
         <constraints>
-          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <model>
             <item value="Pesos (MX)"/>
             <item value="Pesos (Col)"/>
             <item value="Dólares"/>
+            <item value="Francos Suizo"/>
           </model>
         </properties>
       </component>
