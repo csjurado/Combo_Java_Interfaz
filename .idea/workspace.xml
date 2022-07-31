@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e4d77a4-807a-42b3-b77e-aff060b0afb6" name="Changes" comment="ACTUALIZACION">
+      <change afterPath="$PROJECT_DIR$/Combo_Java_Interfaz_Grafica/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Combo_Java_Interfaz_Grafica/.idea/Combo_Java_Interfaz_Grafica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Combo_Java_Interfaz_Grafica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Combo_Java_Interfaz_Grafica/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Combo_Java_Interfaz_Grafica/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/monedas.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/monedas.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/monedas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/monedas.java" afterDir="false" />
     </list>
@@ -62,6 +69,8 @@
       <workItem from="1658758258763" duration="2752000" />
       <workItem from="1658764365906" duration="47000" />
       <workItem from="1658796533939" duration="83000" />
+      <workItem from="1658796765004" duration="23000" />
+      <workItem from="1659221392065" duration="5935000" />
     </task>
     <task id="LOCAL-00001" summary="ACTUALIZACION">
       <created>1658764397014</created>
